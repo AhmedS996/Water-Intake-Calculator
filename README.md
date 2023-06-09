@@ -22,4 +22,4 @@ Please make sure to update tests as appropriate.
 
 ## Credits
 
-The calculator was created by [Your Name](https://github.com/AhmedS996).
+The calculator was created by [Ahmed Alsaiqal](https://github.com/AhmedS996).
