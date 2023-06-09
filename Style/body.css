@@ -1,0 +1,91 @@
+.container {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1,
+h3 {
+  color: #007bff;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+hr {
+  border-color: #6c757d;
+  margin: 20px 0;
+}
+
+form {
+  background-color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.form-label {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+  display: block;
+}
+
+.form-control {
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #6c757d;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.form-select {
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid #6c757d;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background: transparent url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M7 10l5 5 5-5z"/></svg>') no-repeat right 10px center;
+  background-size: 24px 24px;
+}
+
+.btn {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.btn-primary:hover {
+  background-color: #0062cc;
+}
+
+#water-intake {
+  font-size: 18px;
+  font-weight: bold;
+  border: 1px solid #6c757d;
+  padding: 10px;
+  border-radius: 5px;
+}/*# sourceMappingURL=body.css.map */
